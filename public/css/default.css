@@ -1,0 +1,17 @@
+:root {
+    
+}
+
+* { 
+    margin: 0; 
+    padding: 0; 
+}
+
+body, html { 
+    width: 100%; 
+    height: 100%; 
+}
+
+body, a, div, button, input, td, li, select, option, textarea { 
+    font-family: 'Poppins', sans-serif;
+}	
